@@ -23,12 +23,17 @@
 ## ERD  
 ![IPOwer (2)](https://github.com/cielo0105/cielo0105/assets/76719926/d08174fe-c42d-43f5-93cb-edf79b17f357)
 
+
 ## Results
 #### 회원가입/로그인
 ![login](https://github.com/cielo0105/cielo0105/assets/76719926/b9886290-1923-4a40-b9c6-4be04ae57965)
 #### 공모주 세부 정보
-![calandar](https://github.com/cielo0105/cielo0105/assets/76719926/d9fe4b85-c63e-4175-839f-cfb1377462b6)
+<img style="width:700px;" src="https://github.com/cielo0105/KB_IT_Project/assets/76719926/16f1919d-e28b-46cc-928f-058978961236">
+
 #### 카드뉴스
-![card](https://github.com/cielo0105/cielo0105/assets/76719926/47356513-f2a5-49aa-8b30-b5554c9710d7)
+<img style="width:700px;" src="https://github.com/cielo0105/KB_IT_Project/assets/76719926/8f58db8d-8804-4623-9ab0-75c390e3caeb">
+
 #### 관리자 페이지
-![data](https://github.com/cielo0105/cielo0105/assets/76719926/9bbef4f5-a5ea-4d19-b6e2-3dedc8fa8254)
+<img style="width:700px;" src="https://github.com/cielo0105/KB_IT_Project/assets/76719926/7c1b69a1-73d7-4ea0-90b0-b28c25cb7cad">
+<img style="width:500px;" src="https://github.com/cielo0105/KB_IT_Project/assets/76719926/5b6bb38b-a83b-4513-a20a-a50ebab139dd">
+
