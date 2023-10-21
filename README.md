@@ -32,7 +32,7 @@
 ## 사용 기술
 - **Spring Boot, Spring Security**  
 - **MyBatis** - annotation을 사용하여 SQL 쿼리 매핑
-- **MySQL**
+- **Oracle**
 - **JSP, HTML, CSS**
 
 ## ERD  
